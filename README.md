@@ -7,6 +7,8 @@
  => Application doesn’t create multiple objects for your network class. 
  => Display the weather data as a scrollable list elegantly.
  => Properly comment code. 
+ # Flow Diagram
+   Flow Diagram in implementation folder
  # Weather
     Weather Folder contain source code of application.
  # Screen Shot
