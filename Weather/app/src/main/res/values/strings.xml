@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    //////////////////DECLARE String/////////////////////
+    <string name="weather">Weather</string>
+    <string name="description">Description</string>
+    <string name="pressure">Pressure</string>
+    <string name="humadity">Humadity</string>
+    <string name="sea_level">Sea Level</string>
+    <string name="grand_level">Grand Level</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="Last_update">Last Update</string>
+    <string name="App_namemention">Weather App</string>
+    <string name="powered_by">Assignment By</string>
+    <string name="company_name">Convo</string>
+    <string name="last_seen">Last Update</string>
+    <string name="hour_update">3 hours update</string>
+
+
+
+
+</resources>
